@@ -1,0 +1,21 @@
+CLIENT/FRONTEND
+npx create-react-app .
+npm install axios       //allows request to API
+npm install react-hook-form
+npm install react-router-dom
+npm install react-select
+
+
+SERVER/BACKEND
+npm init -y
+npm install express
+npm body-parser
+npm install mysql
+npm install nodemon
+npm install cors
+npm install express-promise-router
+npm install uuid
+npm install bcrypt
+npm install express-session
+npm install body-parser
+npm install cookie-parser
